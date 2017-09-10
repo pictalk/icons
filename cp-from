@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -eo pipefail
+
+filename=$(basename "$1")
+extension="${filename##*.}"
+name="${filename%.*}"
+
+cp "$1" ./
+svgo --pretty --indent=2 "$filename"
+
+./cp "$filename" "$2"
+
