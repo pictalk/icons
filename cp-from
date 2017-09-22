@@ -6,7 +6,7 @@ filename=$(basename "$1")
 extension="${filename##*.}"
 name="${filename%.*}"
 
-cp "$1" ./
+cp "$1" ./ || true
 svgo --pretty --indent=2 "$filename"
 
 ./cp "$filename" "$2"

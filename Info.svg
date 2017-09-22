@@ -1,0 +1,15 @@
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="87.2px" height="98.5px" viewBox="0 0 87.2 98.5" enable-background="new 0 0 87.2 98.5"
+	 xml:space="preserve">
+<defs>
+</defs>
+<g id="Your_Icon_1_">
+	<polygon fill="#FF0000" points="48.6,41.1 48.6,36.2 35.6,36.2 35.6,41.2 38.6,41.2 38.6,59.2 35.6,59.2 35.6,64.2 51.6,64.2
+		51.6,59.2 48.6,59.2 	"/>
+	<circle fill="#FF0000" cx="43.6" cy="28.1" r="5"/>
+	<path fill="#FF0000" d="M87.2,43.6C87.2,19.6,67.7,0,43.6,0S0,19.6,0,43.6C0,63,12.7,79.5,30.3,85.1l13.4,13.4L57,85.1
+		C74.5,79.5,87.2,63,87.2,43.6z M43.6,76c-17.8,0-32.4-14.5-32.4-32.4c0-17.8,14.5-32.4,32.4-32.4S76,25.8,76,43.6S61.5,76,43.6,76z
+		"/>
+</g>
+</svg>
