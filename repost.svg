@@ -1,3 +1,3 @@
-<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
-  <path d="M45.5 14H86v48h-8v8h8c4.418 0 8-3.59 8-8V14c0-4.418-3.59-8-8-8H38c-4.418 0-8 3.59-8 8v8h8v-8h7.5zM6 38.009A8.004 8.004 0 0 1 14.009 30H61.99A8.004 8.004 0 0 1 70 38.009V85.99A8.004 8.004 0 0 1 61.991 94H14.01A8.004 8.004 0 0 1 6 85.991V38.01zM14 38h48v48H14V38z" fill="#000" fill-rule="evenodd"/>
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88">
+  <path d="M39.5 8H80v48h-8v8h8a8 8 0 0 0 8-8V8a8 8 0 0 0-8-8H32a8 8 0 0 0-8 8v8h8V8zM0 32a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8v48a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V32zm8 0h48v48H8V32z"/>
 </svg>
