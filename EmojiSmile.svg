@@ -1,0 +1,9 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36">
+  <style>.st0{fill:none}.st1{fill:#ff0000}</style>
+  <path class="st0" d="M0 0h24v24H0z" id="Frame_-_24px"/>
+  <g id="Line_Icons">
+    <path class="st1" d="M18 13.2H6c-.7 0-1.2.5-1.2 1.2 0 3.1 3.4 6 7.2 6s7.2-2.9 7.2-6c0-.7-.5-1.2-1.2-1.2zM12 18c-2 0-3.7-1.1-4.4-2.4h8.9C15.7 16.9 14 18 12 18z"/>
+    <path class="st1" d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm0 21.6c-5.3 0-9.6-4.3-9.6-9.6S6.7 2.4 12 2.4s9.6 4.3 9.6 9.6-4.3 9.6-9.6 9.6z"/>
+    <path class="st1" d="M7.2 6h2.4v4.8H7.2zM14.4 6h2.4v4.8h-2.4z"/>
+  </g>
+</svg>

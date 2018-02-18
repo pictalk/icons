@@ -1,0 +1,32 @@
+<svg id="Black" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="36" height="36">
+  <style>.st0{fill:#ff0000}.st1{fill:#ff0000}.st2{fill:#ff0000}.st3{fill:#ff0000}.st4{fill:#ff0000}</style>
+  <path class="st0" d="M64.4 101zM64.3 101h.1-.1zM112 52.6L90 27H38.7L17 52.6v.4l47.4 48L112 53zM64.2 101v-.2z"/>
+  <g id="XMLID_4_">
+    <path class="st1" d="M128 49.5v.5h-11.1l-11-21.1z"/>
+    <path class="st2" d="M98.5 15.2L128 49.5l-22.1-20.6-6.6-12.3zM128 50L98.7 79.5 116.9 50z"/>
+    <path class="st0" d="M105.9 28.9l11 21.1h-14.7z"/>
+    <path class="st3" d="M116.9 50L98.7 79.5l3.5-29.5z"/>
+    <path class="st1" d="M99.3 16.6l6.6 12.3-17.8-13.7h10.4z"/>
+    <path class="st3" d="M105.9 28.9L102.2 50 80.1 29.2v-.1l8-13.9z"/>
+    <path class="st1" d="M102.2 50l-3.5 29.5-34.6 34.9z"/>
+    <path class="st3" d="M76.1 79.8L102.2 50l-38.1 64.4-.1-.2z"/>
+    <path class="st0" d="M102.2 50L76.1 79.8 86.5 50z"/>
+    <path class="st2" d="M102.2 50H86.5l-6.4-20.8z"/>
+    <path class="st0" d="M88.1 15.2l-8 13.9-16-13.9z"/>
+    <path class="st1" d="M80.1 29.2L86.5 50H64.3l-.2-.4v-.1z"/>
+    <path class="st2" d="M86.5 50L76.1 79.8 64.3 50z"/>
+    <path class="st3" d="M80.1 29.1v.1l-16 20.3-15.9-20.3 15.9-14z"/>
+    <path class="st0" d="M76.1 79.8L64 114.2l-.3-.6-11.6-32.9L64 50h.3zM64.1 49.5v.1l-.1.4H41.2l7-20.8z"/>
+    <path class="st1" d="M64.1 15.2l-15.9 14v-.1l-8-13.9z"/>
+    <path class="st2" d="M64 50L52.1 80.7 41.2 50zM63.9 114.1L29.5 79.5 26.4 50l37.3 63.6z"/>
+    <path class="st1" d="M52.1 80.7l11.6 32.9L26.4 50l25.7 30.7z"/>
+    <path class="st3" d="M41.2 50l10.9 30.7L26.4 50z"/>
+    <path class="st0" d="M40.2 15.2l8 13.9L26.4 50l-3.9-21.1z"/>
+    <path class="st2" d="M48.2 29.1v.1l-7 20.8H26.4zM40.2 15.2L22.5 28.9l7.2-13.7z"/>
+    <path class="st4" d="M29.7 15.2l-7.2 13.7L.3 49.5z"/>
+    <path class="st0" d="M26.4 50l3.1 29.5L12.8 50z"/>
+    <path class="st2" d="M12.8 50l16.7 29.5L.3 50z"/>
+    <path class="st3" d="M22.5 28.9L26.4 50H12.8z"/>
+    <path class="st1" d="M22.5 28.9L12.8 50H.3v-.5z"/>
+  </g>
+</svg>

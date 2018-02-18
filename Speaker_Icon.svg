@@ -1,0 +1,9 @@
+<svg id="layer1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="36" height="36">
+  <style>.st0,.st1{stroke:#ff0000;stroke-width:5.8004}.st0{stroke-linejoin:round;fill:#ff0000}.st1{fill:none;stroke-linecap:round}</style>
+  <g id="g1">
+    <path id="polygon1" class="st0" d="M209.8 45.6l-106.1 91.8H3.2v118.2h99l107.6 93.1z"/>
+    <path id="path1" class="st1" d="M263.9 263.8c11.9-19.2 18.9-41.7 18.9-65.9 0-24.6-7.2-47.5-19.5-66.8"/>
+    <path id="path2" class="st1" d="M306.9 87.5c22.9 30.8 36.4 69 36.4 110.4 0 41-13.3 78.8-35.8 109.5"/>
+    <path id="path1_1_" class="st1" d="M347.9 347.8c32.6-41.2 52.1-93.3 52.1-149.9 0-57-19.7-109.4-52.7-150.8"/>
+  </g>
+</svg>
