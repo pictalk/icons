@@ -1,6 +1,6 @@
-<svg height="21" viewBox="0 0 21 21" width="21" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1">
+<svg height="21" width="21" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1">
     <path d="M11.7 16.5H2.3c-.44 0-.8-.36-.8-.8V2.3c0-.44.36-.8.8-.8h6.203c.318 0 .623.126.849.351l2.797 2.797a1.2 1.2 0 0 1 .351.849V15.7c0 .44-.36.8-.8.8zM8.5 3v1.7a.8.8 0 0 0 .8.8H11"/>
-    <path d="M14 8.5h1.503c.318 0 .623.126.849.351l2.797 2.797a1.2 1.2 0 0 1 .351.849V18.7c0 .44-.36.8-.8.8H5.3c-.44 0-.8-.36-.8-.8v-.68m11-8.02v1.7a.8.8 0 0 0 .8.8H18M14.5 2.5H16.195c.718 0 1.305.587 1.305 1.305V6m-1.7-1.7L17.5 6m1.7-1.7L17.5 6"/>
+    <path d="M14 8.5h1.503c.318 0 .623.126.849.351l2.797 2.797a1.2 1.2 0 0 1 .351.849V18.7c0 .44-.36.8-.8.8H5.3c-.44 0-.8-.36-.8-.8v-.68m11-8.02v1.7a.8.8 0 0 0 .8.8H18m-3.5-10h1.695c.718 0 1.305.587 1.305 1.305V6m-1.7-1.7L17.5 6m1.7-1.7L17.5 6"/>
   </g>
 </svg>

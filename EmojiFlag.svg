@@ -1,6 +1,6 @@
-<svg contentScriptType="text/ecmascript" version="1" viewBox="0 0 60.000000 60.000000" xmlns="http://www.w3.org/2000/svg" width="36" height="36">
-  <g fill="none" stroke="#ff0000" stroke-miterlimit="10" stroke-width="2">
-    <path d="M11 3h18v8.087L53 11v30H21c0-5.673 8-6 8-6H11V3zM29 11.087V35" stroke-linecap="round" stroke-linejoin="round"/>
+<svg contentScriptType="text/ecmascript" version="1" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" width="36" height="36">
+  <g fill="none" stroke="red" stroke-miterlimit="10" stroke-width="2">
+    <path d="M11 3h18v8.087L53 11v30H21c0-5.673 8-6 8-6H11V3zm18 8.087V35" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M24 34.986h.005H24zM21 35v6"/>
     <path stroke-linecap="round" stroke-linejoin="round" d="M7 1v58"/>
   </g>

@@ -1,5 +1,7 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16">
-  <style>.st0 { fill: #ff0000 }</style>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .st0{fill:red}
+  </style>
   <path class="st0" d="M14.5 1.957h-13c-.851 0-1.543.692-1.543 1.543v9c0 .851.692 1.543 1.543 1.543h13c.851 0 1.543-.692 1.543-1.543v-9c0-.851-.692-1.543-1.543-1.543zm.457 10.543a.458.458 0 0 1-.457.457h-13a.458.458 0 0 1-.457-.457v-9c0-.252.205-.457.457-.457h13c.252 0 .457.205.457.457v9z"/>
   <circle class="st0" cx="3.5" cy="5.5" r="1.5"/>
   <path class="st0" d="M7 10L5 8l-3 3v1h12v-1l-4-4z"/>
