@@ -7,7 +7,7 @@ extension="${filename##*.}"
 name="${filename%.*}"
 
 cp "$1" ./$2.svg || true
-svgo --pretty --indent=2 "$filename"
+svgo --pretty --indent=3 "$2.svg"
 
 ./cp "$2.svg" "$2"
 
