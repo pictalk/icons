@@ -1,0 +1,16 @@
+<svg height="64" id="icons" version="1.1" width="64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <style>
+   </style>
+   <g id="XMLID_2880_">
+      <defs>
+         <path id="XMLID_2881_" d="M0 0h64v64H0z"/>
+      </defs>
+      <clipPath id="XMLID_2_">
+         <use xlink:href="#XMLID_2881_" overflow="visible"/>
+      </clipPath>
+      <g id="XMLID_2882_" clip-path="url(#XMLID_2_)">
+         <path d="M46 44H18c-6.6 0-12-5.4-12-12v0c0-6.6 5.4-12 12-12h28c6.6 0 12 5.4 12 12v0c0 6.6-5.4 12-12 12z" id="XMLID_2884_" fill="none" stroke="#303338" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+         <circle cx="18" cy="32" id="XMLID_2883_" r="6" fill="#303338"/>
+      </g>
+   </g>
+</svg>
